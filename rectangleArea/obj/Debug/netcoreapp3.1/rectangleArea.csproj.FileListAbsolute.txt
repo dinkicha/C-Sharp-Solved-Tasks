@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\bin\Debug\netcoreapp3.1\rectangleArea.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\rectangleArea\obj\Debug\netcoreapp3.1\rectangleArea.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\bin\Debug\netcoreapp3.1\foodDelivery.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\foodDelivery\obj\Debug\netcoreapp3.1\foodDelivery.genruntimeconfig.cache
