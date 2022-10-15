@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\bin\Debug\netcoreapp3.1\greening.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\greening\obj\Debug\netcoreapp3.1\greening.genruntimeconfig.cache

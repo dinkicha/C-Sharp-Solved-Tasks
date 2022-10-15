@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\bin\Debug\netcoreapp3.1\depositCalculator.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\depositCalculator\obj\Debug\netcoreapp3.1\depositCalculator.genruntimeconfig.cache

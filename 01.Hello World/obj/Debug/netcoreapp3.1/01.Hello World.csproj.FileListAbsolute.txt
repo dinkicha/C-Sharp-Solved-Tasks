@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\bin\Debug\netcoreapp3.1\01.Hello World.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\01.Hello World\obj\Debug\netcoreapp3.1\01.Hello World.genruntimeconfig.cache

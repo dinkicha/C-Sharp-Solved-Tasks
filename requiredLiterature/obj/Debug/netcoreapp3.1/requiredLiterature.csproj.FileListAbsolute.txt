@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\bin\Debug\netcoreapp3.1\requiredLiterature.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\requiredLiterature\obj\Debug\netcoreapp3.1\requiredLiterature.genruntimeconfig.cache

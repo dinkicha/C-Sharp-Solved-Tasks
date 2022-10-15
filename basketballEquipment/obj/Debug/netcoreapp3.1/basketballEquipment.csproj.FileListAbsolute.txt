@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\bin\Debug\netcoreapp3.1\basketballEquipment.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\basketballEquipment\obj\Debug\netcoreapp3.1\basketballEquipment.genruntimeconfig.cache

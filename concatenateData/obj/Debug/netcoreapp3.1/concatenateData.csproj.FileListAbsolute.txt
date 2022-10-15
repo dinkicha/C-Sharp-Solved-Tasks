@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.exe
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.deps.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\bin\Debug\netcoreapp3.1\concatenateData.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.dll
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.pdb
+C:\Users\dinko\OneDrive\Desktop\test_repo\secondLanguage-FirstSteps\concatenateData\obj\Debug\netcoreapp3.1\concatenateData.genruntimeconfig.cache
