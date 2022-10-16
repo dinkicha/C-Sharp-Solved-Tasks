@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.exe
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.deps.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\bin\Debug\netcoreapp3.1\oscars.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\oscars\obj\Debug\netcoreapp3.1\oscars.genruntimeconfig.cache
