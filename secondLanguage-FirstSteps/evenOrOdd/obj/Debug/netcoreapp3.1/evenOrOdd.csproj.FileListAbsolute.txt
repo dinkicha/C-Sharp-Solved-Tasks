@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.exe
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.deps.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.genruntimeconfig.cache
