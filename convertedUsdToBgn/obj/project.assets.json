@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\convertedUsdToBgn\\convertedUsdToBgn.csproj",
+      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\convertedUsdToBgn\\convertedUsdToBgn.csproj",
       "projectName": "convertedUsdToBgn",
-      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\convertedUsdToBgn\\convertedUsdToBgn.csproj",
+      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\convertedUsdToBgn\\convertedUsdToBgn.csproj",
       "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\convertedUsdToBgn\\obj\\",
+      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\convertedUsdToBgn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\zooShop\\zooShop.csproj": {}
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\zooShop\\zooShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\zooShop\\zooShop.csproj": {
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\zooShop\\zooShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\zooShop\\zooShop.csproj",
+        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\zooShop\\zooShop.csproj",
         "projectName": "zooShop",
-        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\zooShop\\zooShop.csproj",
+        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\zooShop\\zooShop.csproj",
         "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\zooShop\\obj\\",
+        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\zooShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

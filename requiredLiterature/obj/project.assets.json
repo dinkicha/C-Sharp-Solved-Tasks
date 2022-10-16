@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\requiredLiterature\\requiredLiterature.csproj",
+      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\requiredLiterature\\requiredLiterature.csproj",
       "projectName": "requiredLiterature",
-      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\requiredLiterature\\requiredLiterature.csproj",
+      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\requiredLiterature\\requiredLiterature.csproj",
       "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\requiredLiterature\\obj\\",
+      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\requiredLiterature\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

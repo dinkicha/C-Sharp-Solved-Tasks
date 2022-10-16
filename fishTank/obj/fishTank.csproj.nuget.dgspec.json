@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\fishTank\\fishTank.csproj": {}
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\fishTank\\fishTank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\fishTank\\fishTank.csproj": {
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\fishTank\\fishTank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\fishTank\\fishTank.csproj",
+        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\fishTank\\fishTank.csproj",
         "projectName": "fishTank",
-        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\fishTank\\fishTank.csproj",
+        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\fishTank\\fishTank.csproj",
         "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\fishTank\\obj\\",
+        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\fishTank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\educationMaterial\\educationMaterial.csproj": {}
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\educationMaterial\\educationMaterial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\educationMaterial\\educationMaterial.csproj": {
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\educationMaterial\\educationMaterial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\educationMaterial\\educationMaterial.csproj",
+        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\educationMaterial\\educationMaterial.csproj",
         "projectName": "educationMaterial",
-        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\educationMaterial\\educationMaterial.csproj",
+        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\educationMaterial\\educationMaterial.csproj",
         "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\educationMaterial\\obj\\",
+        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\educationMaterial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

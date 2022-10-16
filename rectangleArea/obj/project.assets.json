@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\rectangleArea\\rectangleArea.csproj",
+      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\rectangleArea\\rectangleArea.csproj",
       "projectName": "rectangleArea",
-      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\rectangleArea\\rectangleArea.csproj",
+      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\rectangleArea\\rectangleArea.csproj",
       "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\rectangleArea\\obj\\",
+      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\rectangleArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

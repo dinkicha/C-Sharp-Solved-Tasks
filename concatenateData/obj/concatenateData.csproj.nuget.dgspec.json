@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\concatenateData\\concatenateData.csproj": {}
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\concatenateData\\concatenateData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\concatenateData\\concatenateData.csproj": {
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\concatenateData\\concatenateData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\concatenateData\\concatenateData.csproj",
+        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\concatenateData\\concatenateData.csproj",
         "projectName": "concatenateData",
-        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\concatenateData\\concatenateData.csproj",
+        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\concatenateData\\concatenateData.csproj",
         "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\concatenateData\\obj\\",
+        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\concatenateData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

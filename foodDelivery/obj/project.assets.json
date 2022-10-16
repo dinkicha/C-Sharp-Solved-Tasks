@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\foodDelivery\\foodDelivery.csproj",
+      "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\foodDelivery\\foodDelivery.csproj",
       "projectName": "foodDelivery",
-      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\foodDelivery\\foodDelivery.csproj",
+      "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\foodDelivery\\foodDelivery.csproj",
       "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\foodDelivery\\obj\\",
+      "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\foodDelivery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",

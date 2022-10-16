@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5Fsg029LStjE2XXQQJPOYigRwymLiYTYhZzQyEeWA25B/2IAMxgWXifU0exc6dvEGl6/jRNLNXoPdDTC9zJYg==",
+  "dgSpecHash": "qN43ZWisQ3fz0qYC2HhedX2dvRhnlWzsfTyCFxAaH105JIol0amm0PVjk6i53YLdulT0KPrm1j9KoE1X0NSjzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\greetingByName\\greetingByName.csproj",
+  "projectFilePath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\greetingByName\\greetingByName.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

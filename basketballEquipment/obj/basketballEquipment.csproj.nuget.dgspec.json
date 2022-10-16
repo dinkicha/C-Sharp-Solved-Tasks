@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\basketballEquipment\\basketballEquipment.csproj": {}
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\basketballEquipment\\basketballEquipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\basketballEquipment\\basketballEquipment.csproj": {
+    "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\basketballEquipment\\basketballEquipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\basketballEquipment\\basketballEquipment.csproj",
+        "projectUniqueName": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\basketballEquipment\\basketballEquipment.csproj",
         "projectName": "basketballEquipment",
-        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\basketballEquipment\\basketballEquipment.csproj",
+        "projectPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\basketballEquipment\\basketballEquipment.csproj",
         "packagesPath": "C:\\Users\\dinko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\test_repo\\secondLanguage-FirstSteps\\basketballEquipment\\obj\\",
+        "outputPath": "C:\\Users\\dinko\\OneDrive\\Desktop\\Cs-Learning-Tasks\\basketballEquipment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dinko\\AppData\\Roaming\\NuGet\\NuGet.Config",
