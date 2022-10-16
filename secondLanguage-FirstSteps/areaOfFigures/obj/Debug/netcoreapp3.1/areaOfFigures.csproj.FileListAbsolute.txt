@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.exe
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.deps.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\bin\Debug\netcoreapp3.1\areaOfFigures.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\areaOfFigures\obj\Debug\netcoreapp3.1\areaOfFigures.genruntimeconfig.cache

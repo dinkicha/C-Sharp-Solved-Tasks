@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.exe
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.deps.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\bin\Debug\netcoreapp3.1\bonusPoints.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\bonusPoints\obj\Debug\netcoreapp3.1\bonusPoints.genruntimeconfig.cache

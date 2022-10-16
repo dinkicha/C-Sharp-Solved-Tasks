@@ -1,0 +1,14 @@
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.exe
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.deps.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.runtimeconfig.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.runtimeconfig.dev.json
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\bin\Debug\netcoreapp3.1\sumSeconds.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.csproj.AssemblyReference.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.AssemblyInfoInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.AssemblyInfo.cs
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.dll
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.pdb
+C:\Users\dinko\OneDrive\Desktop\Cs-Learning-Tasks\secondLanguage-FirstSteps\sumSeconds\obj\Debug\netcoreapp3.1\sumSeconds.genruntimeconfig.cache

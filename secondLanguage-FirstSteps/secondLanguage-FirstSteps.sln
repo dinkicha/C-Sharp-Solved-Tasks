@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "greaterNumber", "greaterNumber\greaterNumber.csproj", "{BB4F6C6F-E35A-4A3B-8D44-D56852D26D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "greaterNumber", "greaterNumber\greaterNumber.csproj", "{BB4F6C6F-E35A-4A3B-8D44-D56852D26D6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evenOrOdd", "evenOrOdd\evenOrOdd.csproj", "{FEB58E17-C18F-47B7-82AF-20ABAD7A3BEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "evenOrOdd", "evenOrOdd\evenOrOdd.csproj", "{FEB58E17-C18F-47B7-82AF-20ABAD7A3BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkPassword", "checkPassword\checkPassword.csproj", "{49B3B0E2-7812-42FD-B4D4-3B3AD8A83324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "checkPassword", "checkPassword\checkPassword.csproj", "{49B3B0E2-7812-42FD-B4D4-3B3AD8A83324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numberFrom100To200", "numberFrom100To200\numberFrom100To200.csproj", "{72FBE612-F358-4D7A-A704-4248C0F30DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "numberFrom100To200", "numberFrom100To200\numberFrom100To200.csproj", "{72FBE612-F358-4D7A-A704-4248C0F30DF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speedInfo", "speedInfo\speedInfo.csproj", "{A112B94C-5F39-4C83-BBBE-5DCE62FD7F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "speedInfo", "speedInfo\speedInfo.csproj", "{A112B94C-5F39-4C83-BBBE-5DCE62FD7F79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areaOfFigures", "areaOfFigures\areaOfFigures.csproj", "{C1D06FA6-9A74-4DD8-BB16-9FED7C4D83B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "areaOfFigures", "areaOfFigures\areaOfFigures.csproj", "{C1D06FA6-9A74-4DD8-BB16-9FED7C4D83B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sumSeconds", "sumSeconds\sumSeconds.csproj", "{2F7DA1B5-2A04-4A7B-8789-400451581BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bonusPoints", "bonusPoints\bonusPoints.csproj", "{92FEBAE1-2904-404E-BEBC-80F349A1B44A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{C1D06FA6-9A74-4DD8-BB16-9FED7C4D83B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1D06FA6-9A74-4DD8-BB16-9FED7C4D83B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1D06FA6-9A74-4DD8-BB16-9FED7C4D83B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7DA1B5-2A04-4A7B-8789-400451581BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7DA1B5-2A04-4A7B-8789-400451581BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7DA1B5-2A04-4A7B-8789-400451581BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7DA1B5-2A04-4A7B-8789-400451581BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FEBAE1-2904-404E-BEBC-80F349A1B44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FEBAE1-2904-404E-BEBC-80F349A1B44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FEBAE1-2904-404E-BEBC-80F349A1B44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FEBAE1-2904-404E-BEBC-80F349A1B44A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
